@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Jeremy
 
-<!--
-**JMoogs/JMoogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEng Discrete Mathematics student at the University of Warwick.
+I mostly write Rust — systems programming, desktop apps, and the occasional game.
 
-Here are some ideas to get you started:
+**Projects I'm working on:**
+- 🗾 Japanese dictionary — 1M+ entry pipeline, sub-ms lookup, Tauri + SQLite
+- 🎮 Bullet hell game in Bevy
+- 🔧 Various tools and experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background:**
+- 1st place @ WarwickHack 2025 (40+ teams)
+- 1st place @ Warwick CTF 2025 (50+ teams)
+- JLPT N3 — 98th percentile, self-studied
+- Previously taught English in Japan
+
+**Languages:** Rust · Python · TypeScript · C++ · Haskell · Java
+
+[jsmoog.com](https://www.jsmoog.com/) · [LinkedIn](https://www.linkedin.com/in/jeremy-sanmoogan/)
